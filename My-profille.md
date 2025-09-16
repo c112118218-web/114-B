@@ -10,3 +10,4 @@
 座右銘：*抽卡絕不歪*
 
 [Google](https://www.google.com/)
+![NKUST](nkust.png "高科大")
