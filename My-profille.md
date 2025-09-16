@@ -9,10 +9,9 @@
 
 座右銘：*抽卡絕不歪*
 
-[Google](https://www.google.com/)
-![ROK]()
+![ROK](下載.jpg)
 
-```1236```
+>Veni, vidi, vici
 
  | 目標 | 狀態 | 年分 |
  |---|:---:|---:|
