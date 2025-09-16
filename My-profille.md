@@ -8,3 +8,5 @@
 * 技能三
 
 座右銘：*抽卡絕不歪*
+
+[Google](https://www.google.com/)
